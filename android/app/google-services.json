@@ -1,0 +1,118 @@
+{
+    "project_info": {
+        "project_number": "145529807037",
+        "firebase_url": "https://waterapp-144b1.firebaseio.com",
+        "project_id": "waterapp-144b1",
+        "storage_bucket": "waterapp-144b1.appspot.com"
+    },
+    "client": [{
+            "client_info": {
+                "mobilesdk_app_id": "1:145529807037:android:bca262ada4c165ae",
+                "android_client_info": {
+                    "package_name": "com.waterapp"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "145529807037-9d31akrnsq1o6v70junhnrdnlmirt7fd.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyB-EJh6U-TwFfQCvXNajxVJd9cDSsUPiYc"
+            }],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:145529807037:android:f73f49a0621c9e79",
+                "android_client_info": {
+                    "package_name": "com.rnauth_sample"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "145529807037-9d31akrnsq1o6v70junhnrdnlmirt7fd.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyB-EJh6U-TwFfQCvXNajxVJd9cDSsUPiYc"
+            }],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:145529807037:android:33fd4b7870ddcc2d",
+                "android_client_info": {
+                    "package_name": "com.firestacksampleandroid"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "145529807037-9d31akrnsq1o6v70junhnrdnlmirt7fd.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyB-EJh6U-TwFfQCvXNajxVJd9cDSsUPiYc"
+            }],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:145529807037:android:8cc7f66c612aa15b",
+                "android_client_info": {
+                    "package_name": "com.firestackandroid"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "145529807037-9d31akrnsq1o6v70junhnrdnlmirt7fd.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyB-EJh6U-TwFfQCvXNajxVJd9cDSsUPiYc"
+            }],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
